@@ -1,31 +1,31 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY SON1X
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ HUBUNGI OWNER ------
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ HUBUNGI OWNER ------
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ HUBUNGI OWNER ------
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ HUBUNGI OWNER ------
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ HUBUNGI OWNER ------
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ HUBUNGI OWNER ------
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ HUBUNGI OWNER ------
 	
-Semuanya atas nama RI****DI
+SEMUANYA HUBUNGI OWNER KECUALI PULSA
 
 *📲 PULSA*
 
-Tidak tersedia
+087823885941
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
