@@ -8,25 +8,25 @@ exports.successBc = () => {
 	return `\`\`\`[ ✓ ]\`\`\` Sukses Broadcast`
 	}
 exports.wrongFormat = () => {
-	return `\`\`\`[ x ]\`\`\` Format salah, coba liat lagi di menu`
+	return `\`\`\`[ x ]\`\`\` Format salah bro, coba liat lagi di menu`
 	}
 exports.erorStik = () => {
-	return `\`\`\`[ x ]\`\`\` Itu bukan stiker`
+	return `\`\`\`[ x ]\`\`\` Itu bukan stiker tod`
 	}
 exports.tagStik = () => {
-	return `\`\`\`[ x ]\`\`\` Reply/tag stiker nya`
+	return `\`\`\`[ x ]\`\`\` Reply/tag stiker nya tod`
 	}
 exports.erorLink = () => {
 	return `\`\`\`[ x ]\`\`\` Linknya error`
 	}
 exports.onlygc = () => {
-	return `\`\`\`[ x ]\`\`\` Khusus Group`
+	return `\`\`\`[ x ]\`\`\` Khusus Group tod`
 	}
 exports.onlyOwner = () => {
-	return `\`\`\`[ x ]\`\`\` Khusus Owner Bot`
+	return `\`\`\`[ x ]\`\`\` Khusus Owner Bot yang tamvan`
 	}
 exports.benned = () => {
-	return `\`\`\`[ x ]\`\`\` Maaf, nomor kamu telah di blokir`
+	return `\`\`\`[ x ]\`\`\` lu knp cari masalah sama owner, mampus di blokirr`
 	}
 exports.onlygcAdmin = () => {
 	return `\`\`\`[ x ]\`\`\` Khusus Admin grup`
@@ -146,7 +146,7 @@ exports.suksesDelTtt = () =>{
 	}
 //on & off
 exports.ownerOff = () =>{
-	return`Owner saya telah off`
+	return`Owner saya lagi off, sibuk`
 	}
 exports.ownerOn = () =>{
 	return`Owner saya kembali on`
