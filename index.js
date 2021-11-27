@@ -4,7 +4,7 @@
 	あ YANG BELUM PAHAM CAR RUN DI HEROKU TONTON AJA VIDEO SEBELUMNYA
 	あ FITUR JUALAN TELAH DI HAPUS [ Bisa order klo mau ]
 	
-	あ JASA RUN HEROKU BISA PC wa.me/62887435047326 BIAR BOT NYA GAK TERLALU DELAY
+	あ JASA RUN HEROKU BISA PC wa.me/62878238859411 BIAR BOT NYA GAK TERLALU DELAY
 	
 */   
 const
@@ -2178,7 +2178,7 @@ let papakpo = [{
 											},
 										"type": "RESPONSE"
 										}]
-								sendButLocation(from, userProcfile , `NOTE ！\nJika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w\n\n${botname}™© | By ${ownername}`,pp_userz, papakpo, {contextInfo: { mentionedJid: [sender]}})
+								sendButLocation(from, userProcfile , `NOTE ！\nSUPPORT OWNER DENGAN DONASI -- LINK GC SON1X : https://chat.whaatsap.com/KdiYmiZ1zdll2ucK1OEI1m${botname}™© | By ${ownername}`,pp_userz, papakpo, {contextInfo: { mentionedJid: [sender]}})
 }
 break
 	case 'verify': case 'daftar':
